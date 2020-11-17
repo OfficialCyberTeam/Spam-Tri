@@ -1,0 +1,19 @@
+=> cara pemakaian script ini  <=
+1. Khusus Spam Ke No Tri Yah Gan
+2. Spamnya Unlimited pastinya
+3. Jika Code 505 berarti harus tunggu selama 5 menit
+
+sebelum menggunakan script ini install dulu bahan
+
+pkg install curl
+pkg install php
+pkg install bash
+pkg install git
+pkg install figlet
+
+
+oke jangan lupaa kunjungi chanel yt saya yah 
+
+Ch Yt : Official Cyber Team
+
+Byeeee....
