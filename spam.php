@@ -31,7 +31,10 @@ function run() {
       $nomor = trim(fgets(STDIN));
       $exec = http($nomor);
       echo "\n";
-      if ($exec) {
+      $js = json_decode($exec, true);
+      print_r($js);
+      echo "\n";
+      if ($js['status'] != "failed") {
          echo "\033[97m[+] Spam Succesfully..\n";
       } else {
          echo "[-] Spam Gagal..";
